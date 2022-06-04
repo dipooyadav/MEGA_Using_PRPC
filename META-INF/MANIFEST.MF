@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-04-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: EPass
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-May-30 00:00:00
+PRPC-Engine: 8.4.0 PRPC-8.4.0-237 ()
+Operator: author@tourist
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: EPass_010101_20220530T201835_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2022-May-30 16:18:41
+Pega-Codeset-Name: Customer
+Instance-Count: 3798
+
+Name: FileMetadata
+
